@@ -1,0 +1,10 @@
+your/PRO work/N is/V beautiful/ADJ 
+you/PRO work/V for/P trains/N 
+this/DET cave/N is/V my/PRO night/N 
+we/PRO hide/V the/DET watch/N in/P a/DET cave/N 
+trains/N are/V fast/ADJ 
+we/PRO fast/V in/P the/DET night/N 
+my/PRO trains/N bark/V 
+the/DET dog/N held/V the/DET bark/N 
+we/PRO should/MOD watch/V the/DET dog/N work/V in/P a/DET cave/N 
+he/PRO trains/V the/DET dog/N 

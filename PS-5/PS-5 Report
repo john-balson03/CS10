@@ -1,0 +1,10 @@
+I hard-coded the example graph into a POSTagger object for my initial tests and tested my viterbiDecode method on the
+sentence "will eats the fish," for which it returned the correct parts of speech.
+
+I tested my train method on the example files and the resulting maps for vertices and edges were the same as in the example.
+
+I also tested my code on the brown data sets, although my computer could not run lines longer than 6 words (I am not
+sure if that is a hardware problem or inefficiency in my code, although my code follows the pseudocode for the viterbi
+algorithm closely). While I could not use my FileTagTester on the larger data sets, I used it on the simple data and got
+26/32 correct. This seems reasonable, since the training data is relatively small. (I only had 32 observations since
+I erased all punctuation)
